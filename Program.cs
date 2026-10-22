@@ -29,7 +29,7 @@ int age_n = 16;
 double height = 1.4;
 bool hasParent = true;
 
-if (age_n > 14 && height >= 1.5 || hasParent)
+if (age_n > 14 && height >= 1.5 || hasParent  )
 {
     Console.WriteLine("Можно кататься");
 } else
